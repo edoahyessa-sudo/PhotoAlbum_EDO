@@ -21,4 +21,5 @@ This Laravel-based photo album displays **100 images** across **five themed page
 ---
 
 ## 🖼️ Screenshot of Sample Output
+![image alt](https://github.com/edoahyessa-sudo/PhotoAlbum_EDO/blob/d196951b5c82322aa95c904431e2fb3dd615ae55/Screenshot%20(4).png)
 
